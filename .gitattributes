@@ -1,0 +1,4 @@
+Weights/GPT.ckpt filter=lfs diff=lfs merge=lfs -text
+Weights/SoVITS.pth filter=lfs diff=lfs merge=lfs -text
+Weights/Target.txt filter=lfs diff=lfs merge=lfs -text
+Weights/Target.wav filter=lfs diff=lfs merge=lfs -text
